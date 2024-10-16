@@ -173,7 +173,11 @@ GameObject:
   m_Component:
   - component: {fileID: 159944660}
   m_Layer: 0
+<<<<<<< HEAD
+  m_Name: Conflict
+=======
   m_Name: HELLO WORLD
+>>>>>>> fb0cad44bb9e5dcc8e1feea8759e5a0d0b76c8ba
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
